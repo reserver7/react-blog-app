@@ -3,6 +3,8 @@
 - React, Firebase를 이용한 리액트 블로그 프로젝트 입니다.
 - URL: [https://react-blog-app-92ff7.web.app]
 
+  ![1](https://github.com/reserver7/react-blog-app/assets/78328320/2e8b9fdb-aba6-441f-b6db-e6e80ac51462)
+
 <br />
 
 # 프로젝트 설명
